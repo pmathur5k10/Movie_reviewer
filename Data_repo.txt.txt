@@ -1,0 +1,5 @@
+labeledTrainData.tsv
+https://www.kaggle.com/c/word2vec-nlp-tutorial/download/labeledTrainData.tsv.zip
+TestData.tsv
+https://www.kaggle.com/c/word2vec-nlp-tutorial/download/testData.tsv.zip
+
