@@ -1,0 +1,9 @@
+-python=2.7.12
+-scikit-learn=0.17.1
+-beautifulsoup4=4.5.1
+-cython=0.24.1
+-lxml=3.6.4
+-nltk=3.2.1
+-numpy=1.11.1
+-pandas=0.18.1
+-scipy=0.18.1
